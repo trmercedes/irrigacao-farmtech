@@ -1,3 +1,5 @@
+Link projeto wokwi : https://wokwi.com/projects/414455644828016641
+
 # irrigacao-farmtech
 Projeto de Irrigação Inteligente
 Este projeto simula um sistema de irrigação inteligente utilizando ESP32, sensores e Python para armazenamento de dados.
